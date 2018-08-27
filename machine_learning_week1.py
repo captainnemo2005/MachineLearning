@@ -1,3 +1,6 @@
+# This project is simply compare 3 algorithm from sklearn library
+# on guessing sexuality from training inputs.
+
 from sklearn import tree
 from sklearn import neighbors
 from sklearn import naive_bayes
